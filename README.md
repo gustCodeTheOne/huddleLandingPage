@@ -10,11 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,10 +20,10 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![](./Huddle Landing Page for Desktop.png)
-![](./Huddle Landing Page for Desktop - Button active.png)
-![](./Huddle Landing Page for Desktop - Icon active.png)
-![](./Huddle Landing Page for Mobile.png)
+![](./Huddle-Landing-Page-for-Desktop.png)
+![](./Huddle-Landing-Page-for-Desktop-Button-active.png)
+![](./Huddle-Landing-Page-for-Desktop-Icon-active.png)
+![](./Huddle-Landing-Page-for-Mobile.png)
 
 ### Links
 
